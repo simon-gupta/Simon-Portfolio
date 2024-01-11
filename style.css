@@ -1,0 +1,25 @@
+body{
+    background-color: #8D7B68;
+}
+.profilepic{
+    border: 10px solid #A4907C;
+    border-radius: 50%;
+}
+.heading-text{
+    color: white;
+}
+.text{
+    color:#F1DEC9
+}
+.about-me{
+    color:#8D7B68;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
